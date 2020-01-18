@@ -1,10 +1,40 @@
 html{
     background-color: burlywood;
-    font-family: monospace;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-h3{
+h1{
+    position: relative;
+    color:cornsilk;
+    font-size: 70px;
+    text-align: center;
+    padding-top: 2vw;
+    padding-bottom: 5vw;
+}
+h2{
     color: cornsilk;
+    font-size: large;
+    font-style: italic;
 }
-.gcse-searchbox-only{
+.container {
+    position: relative;
+    text-align: center;
+}
+#log{
+    width:80%;
+    height:10%;
+    box-shadow: rgba(90, 51, 23, 0.555) 3px 10px 4px;
+}
+#centered {
+    position: absolute;
+    width: 70%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#gsc-i-id1{
+    size:40;
+}
+.gcse-search{
     padding-top: 10px;
+    width: 60%;
 }
