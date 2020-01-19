@@ -1,5 +1,4 @@
 # SieverBeaver
-
 There are so many free resources available online that you can learn anything you may wish.
 Still, it can be pretty challenging to find a good programs out of the thousands options that are available.
 We created a webpage using Google Custom Search, that lets the user search for the concepts they are trying to learn.
@@ -7,7 +6,7 @@ The Custom Search looks for it in the list of hand picked websites that are know
 no charge.  
 
 # Google Custom Search
-Our google custom search searches through the following websites while looking for the keyword received from the user
+Our google custom search searches through the following websites under the selected category and lists the best match found.
 
 ## General
  * www.khanacademy.org
@@ -19,7 +18,12 @@ Our google custom search searches through the following websites while looking f
  * https://edx.org
  * https://coursera.org
 ## Programming 
- * 
+ * https://www.w3schools.com/
+ * https://udemy.com
+ * https://edx.org
+ * https://coursera.org
+ * www.khanacademy.org
+ * https://freecodecamp.org
 ## Math
  * https://math.stackexchange.com/
  * https://www.wolframalpha.com/
