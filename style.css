@@ -9,12 +9,14 @@ h1{
     text-align: center;
     padding-top: 2vw;
     padding-bottom: 5vw;
+    user-select: none;
 }
 h2{
     color: cornsilk;
     font-size: large;
     font-style: italic;
     margin-left: 100px;
+    user-select: none;
 }
 .container {
     position: relative;
@@ -32,16 +34,10 @@ h2{
     left: 50%;
     transform: translate(-50%, -50%);
 }
-#gsc-i-id1{
-    size:40;
-}
 .gcse-searchbox{
     padding-top: 10px;
     width: 60%;
 }
 .gcse-searchresults-only{
     background-color: burlywood;
-}
-.gsc-results-wrapper-overlay{
-    height:300px;
 }
