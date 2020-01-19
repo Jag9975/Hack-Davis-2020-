@@ -1,5 +1,6 @@
+//sets color of bg and custom steve (the sieverbeaver)
 if (document.getElementById("general")){
-    document.body.style.backgroundColor = "burlywood"; 
+    document.body.style.backgroundColor = "burlywood";
 }
 if (document.getElementById("math")){
     document.body.style.backgroundColor = "rgb(185, 55, 44)"; 
@@ -19,4 +20,3 @@ img.style.display = "block";
 img.style.marginLeft = "auto";
 img.style.marginRight = "auto";
 document.getElementById("steve").appendChild(img);
-const menu = document.getElementById("dropdown");

@@ -20,6 +20,7 @@ Our google custom search looks for the keyword requested by the user in the list
  * https://coursera.org
  * www.khanacademy.org
  * https://freecodecamp.org
+ * https://ocw.mit.edu
 ## Math
  * https://math.stackexchange.com/
  * https://www.wolframalpha.com/
