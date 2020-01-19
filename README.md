@@ -15,9 +15,9 @@ Our google custom search searches through the following websites while looking f
  * http://www.openculture.com/freeonlinecourses
  * https://www.codecademy.com/
  * https://online.stanford.edu/
- * udemy.com
- * edx.org
- * coursera.org
+ * https://udemy.com
+ * https://edx.org
+ * https://coursera.org
 ## Programming 
  * 
 ## Math
@@ -27,12 +27,12 @@ Our google custom search searches through the following websites while looking f
  * https://www.desmos.com/
  * https://www.symbolab.com/
 ## English
- * edx.org
+ * https://edx.org
  * https://crossref-it.info/
- * gradesaver.com
- * enotes.com
- * cliffnotes.com
- * dictionary.com
+ * https://gradesaver.com
+ * https://enotes.com
+ * https://cliffnotes.com
+ * https://dictionary.com
  * https://owl.purdue.edu
  * https://www.sparknotes.com/
 
