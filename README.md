@@ -10,16 +10,31 @@ no charge.
 Our google custom search searches through the following websites while looking for the keyword received from the user
 
 ## General
- * 
- * 
- * 
- * 
+ * www.khanacademy.org
+ * https://ed.ted.com/
+ * http://www.openculture.com/freeonlinecourses
+ * https://www.codecademy.com/
+ * https://online.stanford.edu/
+ * udemy.com
+ * edx.org
+ * coursera.org
 ## Programming 
  * 
 ## Math
- * 
+ * https://math.stackexchange.com/
+ * https://www.wolframalpha.com/
+ * https://www.khanacademy.org/
+ * https://www.desmos.com/
+ * https://www.symbolab.com/
 ## English
- * 
+ * edx.org
+ * https://crossref-it.info/
+ * gradesaver.com
+ * enotes.com
+ * cliffnotes.com
+ * dictionary.com
+ * https://owl.purdue.edu
+ * https://www.sparknotes.com/
 
 # Authors
 * **Robert Au** - [r6097](https://github.com/r6097)
