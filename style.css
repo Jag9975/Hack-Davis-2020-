@@ -2,23 +2,25 @@ html{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h4{
+    margin-top: 0;
     color:cornsilk;
     user-select: none;
-    margin-left: 80%;
+    margin-left: 70%;
     font-size: 40px;
     margin-bottom: 10px;
     transform: rotate(-12deg);
 }
 h1{
+    margin-top: 0;
+    margin-bottom: 0;
     position: relative;
     color:cornsilk;
     font-size: 70px;
     text-align: center;
-    padding-top: 2vw;
-    padding-bottom: 1vw;
     user-select: none;
 }
 h2{
+    margin-top: 0;
     color: cornsilk;
     font-size: large;
     font-style: italic;
